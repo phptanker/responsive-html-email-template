@@ -2,7 +2,6 @@
 
 Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
 
-[See live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
 
 <img src="https://user-images.githubusercontent.com/15963/29055956-8dcca38e-7bb4-11e7-8a86-7b056ebf673d.png" alt="Simple HTML Email" width="500">
 
